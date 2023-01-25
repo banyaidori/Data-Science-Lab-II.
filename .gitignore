@@ -1,9 +1,13 @@
 /Documentation
 /Data/original_zip
-/Data/PCM_data/*
-/Data/WAV_data/*
-!/Data/WAV_data
-!/Data/PCM_data
+/Data/PCM_data/2020.05.02_M3_time_corrected
+/Data/PCM_data/2020.05.24_M3_time_corrected
+/Data/PCM_data/2020.04.09_time_corrected
+/Data/PCM_data/m1
+/Data/PCM_data/2020.05.24_M1_time_corrected
+/Data/PCM_data/2020.05.24_M2_time_corrected
+/Data/WAV_data/2020.05.02_M3_time_corrected
+/Data/WAV_data/2020.05.24_M3_time_corrected
 /Others
 /.venv
 /.ipynb_chechpoints
