@@ -6,7 +6,8 @@
 /Data/PCM_data/m1
 /Data/PCM_data/2020.05.24_M1_time_corrected
 /Data/PCM_data/2020.05.24_M2_time_corrected
-/Data/WAV_data/2020.05.02_M3_time_corrected
+/Data/WAV_data/2020.05.02_M3_time_corrected/*
+!/Data/WAV_data/2020.05.02_M3_time_corrected/200409-195835-41.wav
 /Data/WAV_data/2020.05.24_M3_time_corrected
 /Others
 /.venv
