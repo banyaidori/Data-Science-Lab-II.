@@ -1,0 +1,8 @@
+/Documentation
+/Data/original_zip
+/Data/PCM_data/*
+/Data/WAV_data/*
+/Others
+/.venv
+/.ipynb_chechpoints
+/labels.xlsx
